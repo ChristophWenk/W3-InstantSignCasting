@@ -1,23 +1,18 @@
-
-
 # Instant Sign Casting for Logitech Gaming Software
 This script allows you to map your favorite signs to your mouse buttons 4 and 5 (Back and Forward mouse buttons).  
-By clicking the button, signs will get selected and casted instantly. If  
-you keep pressing the button, signs will be casted in alternate sign  
-casting mode.  
+By clicking the button, signs will get selected and casted instantly. If you keep pressing the button, signs will be casted in alternate sign casting mode.  
   
 Which signs you want to map is entirely your choice. You just have to do a little bit of configuration.  
 If you have some knowledge in scripting/programming you should also be able to extend the script to your likings.  
   
-The script is designed to work with Logitech Gaming Software. However, as  
-it's a LUA script it might as well work with other Gaming Software.  
+The script is designed to work with Logitech Gaming Software. However, as it's a LUA script it might as well work with other Gaming Software.  
   
 Please feel free to contact me if you have any questions.  
   
 Also available on [NexusMods](https://www.nexusmods.com/witcher3/mods/272?tab=description).  
 
 ## Updates
-26.07.2015: Added profile preset for Logitech G600. This can be used as a base for other mice with lots of G-buttons. Updated Installation description. Updated script comments.  
+**26.07.2015**: Added profile preset for Logitech G600. This can be used as a base for other mice with lots of G-buttons. Updated Installation description. Updated script comments.  
   
 
 ## Installation
@@ -31,8 +26,8 @@ Also available on [NexusMods](https://www.nexusmods.com/witcher3/mods/272?tab=de
 8.  That's it. You're done.
 
   
-**NOTE**: Make sure you don't have any preset commands assigned to your mouse  
-buttons. To do so right-click the button in LGS (or left-click the arrow next to it) and click "Unassign".  
+**NOTE**: Make sure you don't have any preset commands assigned to your mouse buttons. 
+To do so right-click the button in LGS (or left-click the arrow next to it) and click "Unassign".  
 Also make sure to enable "Automatic game detection" if you're using a newer device with G-Buttons.  
 Please have a look at the images for further clarification.  
   
