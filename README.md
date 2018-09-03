@@ -53,10 +53,5 @@ Save and you're done. The script will get executed automatically when the game p
   
 
 ## Uninstall
-To uninstall the script, simply copy the following code and overwrite the  
-script. This is the default code for every game profile.  
-
-    function OnEvent(event, arg)  
-    --OutputLogMessage("event = %s, arg = %s\n", event, arg);  
-    end
+To uninstall the script, simply delete the code and leave the field blank.
 
