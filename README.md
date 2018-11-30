@@ -1,4 +1,4 @@
-# Instant Sign Casting for Logitech Gaming Software
+# The Witcher 3 - Instant Sign Casting for Logitech Gaming Software
 This script allows you to map your favorite signs to your mouse buttons 4 and 5 (Back and Forward mouse buttons).  
 By clicking the button, signs will get selected and casted instantly. If you keep pressing the button, signs will be casted in alternate sign casting mode.  
   
